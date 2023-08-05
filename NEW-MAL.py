@@ -18,7 +18,7 @@ import mechanize
 import string
 print('[\033[1;32mâœ“\033[1;37m] Wait For Connect Server !! ')
 os.system('git pull')
-os.system(f'xdg-open https://facebook.com/groups/indianscommunitygeorgia/')
+os.system(f'xdg-open https://facebook.com/groups/842748076486421/')
 time.sleep(2.00)
 try:
     import requests
@@ -213,11 +213,9 @@ os.system("clear")
 #print(" \033[92;1m[Ã¢Å“â€œ] FOLLOW US ON GITHUB ")
 #os.system("xdg-open https://github.com/BANTUBD")
 logo=("""\33[31;1m
-
-\033[31;1m╔╦╗╦═╗╦╔═╗╦╔═  ╔═╗╔═╗╦ ╦╔═╗╔╦╗
-\033[32;1m ║ ╠╦╝║║  ╠╩╗  ╠═╣╚═╗╠═╣╠═╣ ║║
-\033[33;1m ╩ ╩╚═╩╚═╝╩ ╩  ╩ ╩╚═╝╩ ╩╩ ╩═╩╝
-
+\033[31;1m╔╦╗╦═╗╦╔═╗╦╔═  ╔═╗╦═╗╔═╗╦ ╦╔═╗╔╦╗
+\033[32;1m ║ ╠╦╝║║  ╠╩╗  ╠═╣╠╦╝╚═╗╠═╣╠═╣ ║║
+\033[33;1m ╩ ╩╚═╩╚═╝╩ ╩  ╩ ╩╩╚═╚═╝╩ ╩╩ ╩═╩╝
 \x1b[38;5;46m===============================================   
  \033[1;31m[\033[1;32m[A]\033[1;31m]\033[1;32m DEVELOPER : TRICK A4SHAD  
  \033[1;31m[\033[1;32m[R]\033[1;31m]\033[1;32m DEVELOPER : TRUCK A4SHAD
